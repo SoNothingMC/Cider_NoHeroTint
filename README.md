@@ -36,5 +36,5 @@ Apple Music is a trademark of Apple Inc.
 [Cider]: https://cider.sh/
 [The Sailor]: https://geo.music.apple.com/album/1469319614/
 [Rich Brian]: https://geo.music.apple.com/artist/1023207266/
-[WTFPL]: https://github.com/SoNothingMC/Cider_OldLogoTheme/blob/main/LICENSE/
+[WTFPL]: https://github.com/SoNothingMC/Cider_NoHeroTint/blob/main/LICENSE/
 [AGPLv3]: https://github.com/ciderapp/Cider/blob/2804de5f15824ea13c6f64430f828cb665e1dfe9/LICENSE/

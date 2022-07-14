@@ -1,5 +1,11 @@
 # No Album Banner Tint
 
+## ⚠ End-of-Life Notice
+
+This theme is no longer being maintained.
+
+---
+
 A theme for the [Cider] music player which disables the tint color on album banners.
 
 Supports Cider version 1.5.1 and above.

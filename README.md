@@ -18,7 +18,7 @@ Supports Cider version 1.5.1 and above.
 Although the tint slightly hinders the colors of the banner, it is actually intended as a protective mechanism against long album titles, where the title might be shown on top of the banner, which makes it unreadable.
 
 By installing this theme, you risk not being able to see texts in some albums.  
-But no stress! You can just disable the theme if it happens.
+But you can just disable the theme if it happens.
 
 ## Copyright
 
